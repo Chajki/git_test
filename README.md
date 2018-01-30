@@ -1,0 +1,1 @@
+This is Chajki's first Git project.
